@@ -53,12 +53,12 @@ function App() {
           </div>
           <div className='linkbox'>
             <div className='html'>
-              <a href="#">Web Design</a>
-              <a href="#">HTML</a>
-              <a href="#">Freebies</a>
-              <a href="#">JavaScript</a>
-              <a href="#">Css</a>
-              <a href="#">Tutorials</a>
+              <a href="javascript:void(0);">Web Design</a>
+              <a href="javascript:void(0);">HTML</a>
+              <a href="javascript:void(0);">Freebies</a>
+              <a href="javascript:void(0);">JavaScript</a>
+              <a href="javascript:void(0);">Css</a>
+              <a href="javascript:void(0);">Tutorials</a>
             </div>
           </div>
         </div>
